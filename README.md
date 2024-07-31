@@ -1,14 +1,3 @@
-Chunklist
-https://cams.cdn-surfline.com/cdn-X/X-Y/chunklist.m3u8
-Ec or wc
-Sometimes wc/hi for Hawaii cams
-Location
-Ts Download
-https://cams.cdn-surfline.com/cdn-X/X-Y/media-uj6khg0v0_80773.ts
-Ex. uj6khg0v0 - Random code found in chunklist
-80773 - Timestamp, found in chunklist
-Seems like this number is the last one in the chunklist file
-
 [WC] List of spot names
 hi-pipelineov
 wc-lowers

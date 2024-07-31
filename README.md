@@ -73,3 +73,7 @@ id-uluwatu
 id-uluwatufront
 
 id-uluwatucloseup
+
+za-supertubes
+
+za-lowerpoint

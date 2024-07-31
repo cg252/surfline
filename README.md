@@ -63,8 +63,13 @@ ec-goodharbor
 ec-nahant
 
 ec-seabrooknh
+
 ec-hampton
+
 [INT] List of spot names
+
 id-uluwatu
+
 id-uluwatufront
+
 id-uluwatucloseup
